@@ -89,11 +89,11 @@ Run the desired script on an analyzed file by double-clicking it or using the ke
 
 ### find_device_name.py
 
-![find_device_name output](img/find_device_name_output.png)
+![find_device_name output](img/find_device_name_output.PNG)
 
 ### find_ioctls.py
 
-![find_ioctls output](img/find_ioctls_output.png)
+![find_ioctls output](img/find_ioctls_output.PNG)
 
 ## Requirements
 
